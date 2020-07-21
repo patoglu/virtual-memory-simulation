@@ -4,6 +4,11 @@ IMPORTANT NOTE: Before running Part3 please run the command: chmod +x ./sortArra
 
 
 This program is finds the best frame size for 4 sort algorithms.
+FOR GITHUB:
+	
+	-In order to understand project purpose and sample usage check CSE 312 Spring 2020 Final Exam Project_Part3_Updated (1).pdf
+	-In order to see implementation check Report.pdf
+
 
 You can build the program with typing make.
 
@@ -29,16 +34,13 @@ You can try with higher inputs via changing program text.(2d commands array)
 
 For Part 2:
 
-The WS Clock algorithm is not implemented. 
 
-All other four algorithms implemented except that I realised sometimes I'm getting
-segfault for LRU with local, therefore I run LRU with global for that input.
 
 
 The code unfortunately have a lot duplicate areas i couldn't have enough time
 to edit it.
 
-Makefile is provided, the code written in our VM. The code doesn't have any memory leaks.
+Makefile is provided. The code doesn't have any memory leaks.
 
 
 Also my page table entry is named with page_table_entry_NRU in my code. That page table struct 
