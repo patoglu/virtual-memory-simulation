@@ -1,6 +1,6 @@
 For Part3:
 
-IMPORTANT NOTE: Before running Part3 please run the command: chmod +x ./sortArrays (Because it's uses system command.)
+IMPORTANT NOTE: Before running Part3 please run the command: chmod +x ./sortArrays (Because it uses system command.)
 
 
 This program is finds the best frame size for 4 sort algorithms.
